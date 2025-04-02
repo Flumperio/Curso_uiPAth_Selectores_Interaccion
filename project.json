@@ -4,6 +4,7 @@
   "description": "Es un pilar fundamental de la automatización de procesos. ",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.IntegrationService.Activities": "[1.14.0]",
     "UiPath.System.Activities": "[25.2.1]",
     "UiPath.UIAutomation.Activities": "[24.10.11]"
