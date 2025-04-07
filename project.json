@@ -2,7 +2,7 @@
   "name": "Selectores e Interaccion con la UI",
   "projectId": "8922d7cb-6fdd-41db-a3a0-816198fe7787",
   "description": "Es un pilar fundamental de la automatización de procesos. ",
-  "main": "Main.xaml",
+  "main": "Ejercicio_Mail\\Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.IntegrationService.Activities": "[1.14.0]",
@@ -49,8 +49,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "13df9330-5ce0-42a2-974a-69c8d5943660",
+      "filePath": "Ejercicio_Mail\\Main.xaml",
+      "uniqueId": "75413bd0-6503-4089-8c28-4ddecb5722ec",
       "input": [],
       "output": []
     }
